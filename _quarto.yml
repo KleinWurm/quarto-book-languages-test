@@ -1,0 +1,21 @@
+project:
+  type: book
+
+book:
+  title: "La marmotte"
+  chapters:
+    - index.qmd
+    - en_chapter.qmd
+    - fr_chapter.qmd
+    - references.qmd
+
+bibliography: references.bib
+lang: fr-FR # main language (for references, lof and lot, etc.)
+
+format:
+  pdf:
+    documentclass: scrreprt
+    lof: true
+
+editor: visual
+

@@ -1,0 +1,13 @@
+---
+lang: en-GB # this chapter uses a different language than the main book.
+---
+
+# Preface {.unnumbered}
+
+The goal of this project is to test the different ways to specify languages in Quarto. This mimic the situation where some chapters are in a language are in a different language than the one of the rest of the document.
+
+-   Is the TOC displayed in the main book language?
+
+-   Are the cross-references (table, equation, figure, *etc.*) displayed in the chapter language?
+
+-   Are the language specific typographic rules applied using the chapter language?

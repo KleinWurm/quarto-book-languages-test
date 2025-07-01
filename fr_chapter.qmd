@@ -1,0 +1,11 @@
+# Chapitre en français
+
+Une phrase avec des "éléments" typiques de la langue! Ces derniers sont différents de ceux en anglais. Pour les citations voir @deklein2019chapter11n2o.
+
+Voir @fig-marmotte pour une image de marmotte qui sert à générer une table des figures, et @eq-fr pour vérifier la langue des renvois.
+
+![Une marmotte. Photo de Daniel\*D "Marmotte, Chamonix, col de Balme, 2007" [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/).](Marmotte_Chamonix_2007_101_0112.JPG){#fig-marmotte}
+
+$$
+1.5+1=2.5
+$$ {#eq-fr}
