@@ -1,7 +1,4 @@
----
-lang: en-GB # this chapter uses a different language than the main book.
----
-
+::: {lang=en-GB}
 # Chapter in English
 
 This sentence has some "specific" elements of the English language! That requires a different typography than the French.
@@ -11,3 +8,4 @@ A cross-reference to check the language, see @eq-en
 $$
 2.5+2.5=5
 $$ {#eq-en}
+:::
