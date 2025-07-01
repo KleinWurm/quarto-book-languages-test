@@ -1,6 +1,4 @@
----
-lang: en-GB # this chapter uses a different language than the main book.
----
+::: {lang=en-GB}
 
 # Preface {.unnumbered}
 
@@ -11,3 +9,4 @@ The goal of this project is to test the different ways to specify languages in Q
 -   Are the cross-references (table, equation, figure, *etc.*) displayed in the chapter language?
 
 -   Are the language specific typographic rules applied using the chapter language?
+:::
